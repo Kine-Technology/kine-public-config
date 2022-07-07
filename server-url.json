@@ -1,0 +1,5 @@
+{
+    "env": "prd",
+    "restUrl" : "https://www.kine.vc/-/x",
+    "websocketUrl" : "ws://www.kine.vc/-/s/app"
+}
